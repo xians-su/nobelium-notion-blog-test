@@ -1,3 +1,6 @@
+/**
+ * @type {import('~/types').BlogConfig}
+ */
 const BLOG = {
   title: 'Xians | 慢叨',
   author: 'Xians Su',
